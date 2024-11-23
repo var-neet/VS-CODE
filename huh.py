@@ -17,6 +17,7 @@ BLUE = (0, 0, 255)
 
 # Define pixel size for the pixelated effect
 pixel_size = 20  # Size of each "pixel" (in terms of screen space)
+# new
 
 # Function to create a simple pixel art block
 def draw_pixel_art(x, y, color):
